@@ -12,3 +12,4 @@
 11.给远程仓库创建分支：（1）git branch <name> 创建本地分支（2）git push origin <name>把本地分支提交到远程仓库 （3）git branch -a 查看远程有多少分支
 12.提交本地仓库代码到远程仓库： git push origin <name> (分支名称）
 13.解决多人协作在远程造成的冲突： git pull, 解决冲突文件，git commit, git push origin <name>
+14.tag： git tag <v1.0>本地仓库创建tag;  远程仓库创建tag： git push <branch-name> <v1.0>
