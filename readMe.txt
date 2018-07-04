@@ -8,3 +8,4 @@
 8.删除文件
    git rm <file>, git commit -m ""
 9.创建分支，切换分支，删除分支
+10：git branch <name> 创建分支， git checkout <name> 切换分支， git checkout -b <name> 创建并切换分支
